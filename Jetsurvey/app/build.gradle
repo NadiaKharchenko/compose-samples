@@ -75,7 +75,7 @@ android {
     }
 
     composeOptions {
-        kotlinCompilerExtensionVersion Libs.AndroidX.Compose.version
+        kotlinCompilerExtensionVersion = "1.2.0-SNAPSHOT"
     }
 
     packagingOptions {
